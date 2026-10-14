@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="pd_profitable_deals" name="Profitable Deals" author="local" version="1" date="2026-10-14" save="false"
+         description="Map button that sizes known trade deals to a selected ship and queues buy, sell, and return-to-base orders.">
+  <dependency id="ws_3477279743" optional="false" name="UI Extensions and HUD"/>
+  <text language="44" name="Profitable Deals" description="Map button that sizes known trade deals to a selected ship and queues buy, sell, and return-to-base orders."/>
+</content>
